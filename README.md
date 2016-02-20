@@ -12,6 +12,7 @@ You are more than welcome to take a look!
 - [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) - Robert Martin
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - Greg Young
 - [TDD, where did it all go wrong?](https://vimeo.com/68375232) - Ian Cooper
+- [Bottom Up vs Top Down Design in Clojure](https://www.youtube.com/watch?v=Tb823aqgX_0) - Mark Bastian
 - [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) - Dan North
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII) - Bret Victor
 - [Emacs Rocks](http://emacsrocks.com/) - Magnar Sveen
